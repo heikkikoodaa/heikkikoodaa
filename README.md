@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello friend! 😸
+
+My name is Heikki and I'm a self-taught web developer. I'm currently working on developing my skills even further by building my own projects as well as attending to a variety of different online courses. My focus is currently in React.js, Redux, GraphQL, Google Firebase and Node.js due to their popularity and suitability for different projects.
+
+### How to reach me
+
+If you're looking for a developer to join your team, you can best reach out to me from LinkedIn.
+
+### Fun fact:
+
+I love eating mustard on rye bread while watching random YouTube videos 🔥
 
 <!--
 **torastrengel/torastrengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
