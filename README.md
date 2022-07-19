@@ -4,7 +4,7 @@ My name is Heikki and I'm a self-taught web developer. I'm currently working on 
 
 ### How to reach me
 
-If you're looking for a developer to join your team, you can best reach out to me from LinkedIn.
+If you're looking for a developer to join your team, you can best reach out to me from LinkedIn or by simply sending me an email.
 
 ### Fun fact:
 
