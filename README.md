@@ -1,10 +1,10 @@
 ### Hello friend! 😸
 
-My name is Heikki and I'm a self-taught web developer. I'm currently working on developing my skills even further by building my own projects as well as attending to a variety of different online courses. My focus is currently in React.js, Redux, GraphQL, Google Firebase and Node.js due to their popularity and suitability for different projects.
+My name is Heikki and I'm a self-taught web developer. I'm currently working on developing my skills even further by building my projects as well as attending a variety of different online courses. My focus is currently on ReactJS, Redux, GraphQL, Google Firebase, and Node.js due to their popularity and suitability for different projects.
 
 ### How to reach me
 
-If you're looking for a developer to join your team, you can best reach out to me from LinkedIn or by simply sending me an email.
+If you're looking for a developer to join your team, you can best reach out to me on LinkedIn or by simply sending me an email.
 
 ### Fun fact:
 
