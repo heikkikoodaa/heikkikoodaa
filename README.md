@@ -1,14 +1,14 @@
 ### Hello friend! 😸
 
-My name is Heikki and I'm a self-taught web developer. I'm currently working on developing my skills even further by building my projects as well as attending a variety of different online courses. My focus is currently on ReactJS, Redux, GraphQL, Google Firebase, and Node.js due to their popularity and suitability for different projects.
+No need for formalities, my name's Heikki and I'm a self-taught web developer. I'm still honing my craft by building cool projects and trying out different online courses. Lately, I've been geeking out on ReactJS, Redux, GraphQL, Google Firebase, and Node.js because they're super trendy and work like a charm for all sorts of projects.
 
 ### How to reach me
 
-If you're looking for a developer to join your team, you can best reach out to me on LinkedIn or by simply sending me an email.
+Are you on the hunt for a skilled developer to join your team? Look no further! I'm easily reachable on LinkedIn, or feel free to drop me a line via email. Let's connect and see how we can take your projects to the next level.
 
 ### Fun fact:
 
-I love eating mustard on rye bread while watching random YouTube videos 🔥
+You know what's my jam? Chomping down on some rye bread slathered with mustard, all while laughing my guts out to the wackiest YouTube videos out there 🔥
 
 <!--
 **torastrengel/torastrengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
