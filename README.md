@@ -1,26 +1,18 @@
-### Hello friend! 😸
+# Hello there! 😸
 
-No need for formalities, my name's Heikki and I'm a self-taught web developer. I'm still honing my craft by building cool projects and trying out different online courses. Lately, I've been geeking out on ReactJS, Redux, GraphQL, Google Firebase, and Node.js because they're super trendy and work like a charm for all sorts of projects.
+I’m Heikki — a web developer with nearly 3 years of professional experience building modern, scalable applications.  
+What started as a self-taught hobby has grown into a full-time craft, and I’ve had the chance to work with everything from **React & Redux** on the frontend to **Node.js & cloud services** on the backend.
 
-### How to reach me
+I enjoy tackling with problems and pain points, and I’m always curious about new tools that can make life easier (or at least less bug-filled).  
 
-Are you on the hunt for a skilled developer to join your team? Look no further! I'm easily reachable on LinkedIn, or feel free to drop me a line via email. Let's connect and see how we can take your projects to the next level.
+---
 
-### Fun fact:
+## 📬 How to reach me
+Looking for someone who can help bring your ideas to life?  
+You’ll find me on [LinkedIn](https://www.linkedin.com/in/heikki-riihinen/) or you can always send me an email. Let’s chat — worst case, you’ll walk away with a few extra bad jokes.
 
-You know what's my jam? Chomping down on some rye bread slathered with mustard, all while laughing my guts out to the wackiest YouTube videos out there 🔥
+---
 
-<!--
-**torastrengel/torastrengel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun fact
+Give me a slice of rye bread with mustard and a good playlist of absurd YouTube videos, and I’m set for the evening.  
+(Yes, it’s an acquired taste.)
